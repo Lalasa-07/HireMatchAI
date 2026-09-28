@@ -47,14 +47,16 @@ Course Recommendations
 
 ### Recruiter Mode
 
-Recruiters can upload one Job Description followed by multiple resumes. HireMatch AI analyzes the candidates and provides:
+Recruiters can upload one Job Description followed by multiple resumes. HireMatch AI analyzes and compares the candidates based on the skills and priorities identified from the JD.
 
-- Match score
+It provides:
+
+- Priority-based match score
+- Candidate ranking based on JD skill priorities
 - Matched skills
 - Missing skills
-- JD skill priorities
+- High, Medium, and Low priority skills
 - ATS compatibility
-- Resume improvement suggestions
 
 ### Job-Seeker Mode
 
